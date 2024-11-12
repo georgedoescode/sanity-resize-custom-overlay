@@ -2,6 +2,8 @@
 
 A simple Custom Overlay that allows editors to set an element's width using a simple drag handle.
 
+<img src="https://github.com/georgedoescode/sanity-resize-custom-overlay/blob/main/screenshot.png?raw=true" />
+
 ## Usage
 
 First, define a max width property in your schema. You can name this anything you like:
